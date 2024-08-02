@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+*.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.pdb
+*.cache
+*.log
+*.ide
+*.dbmdl
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+obj/
+bin/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.nupkg.deploy
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Microsoft Azure Web App
+# .deployment
+.deploy/
+*.publishsettings
+*.azurePubxml
+*.azurePubxml.user
+*.azurePubxml.user/*.pubxml
+*.pubxml
+
+# Rider
+.idea/
+*.sln.iml
